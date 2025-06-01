@@ -1,12 +1,34 @@
-# React + Vite
+# 🚀 iPhone 15 Pro Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ce projet React présente une reproduction de la landing page professionnelle et moderne pour l’iPhone 15 sortie en 2023, avec des animations fluides et une expérience utilisateur optimisée.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Fonctionnalités principales 
 
-## Expanding the ESLint configuration
+- Animations performantes avec **GSAP** et **ScrollTrigger**
+- Vidéo adaptative selon la résolution d’écran 📱💻
+- Design responsive avec **Tailwind CSS**
+- Gestion propre des états et effets via **React Hooks**
+- Scroll fluide pour une navigation agréable 👆
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies utilisées 
+
+- React (Functional Components & Hooks)  
+- GSAP pour les animations avancées  
+- Tailwind CSS pour le style
+- Threejs pour le rendu 3D  
+
+---
+
+## 🎉 Installation & lancement 
+
+```bash
+git clone https://github.com/mcourbon/Apple-Reproduction
+npm install
+npm start
+```
+Puis accède à http://localhost:3000 !
+Ou visite le en ligne sur https://apple-reproduction.vercel.app
